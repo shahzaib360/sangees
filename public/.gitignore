@@ -1,0 +1,20 @@
+# WordPress core
+wp-admin/
+wp-includes/
+
+# OS / IDE junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Uploads (optional — skip large media)
+wp-content/uploads/
+
+# Config & cache
+wp-config.php
+wp-content/cache/
+wp-content/upgrade/
+
+# Logs
+*.log
